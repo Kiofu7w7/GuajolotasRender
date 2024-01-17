@@ -13,7 +13,8 @@
     "comidas": [
         {
 	    "id": 1,
-            "guajolotas": [
+	    "nombre": "guajolotas",
+            "contenido": [
                 {
                     "id": 1,
                     "nombre": "Verde",
@@ -54,7 +55,8 @@
         },
         {
 	    "id": 2,
-            "bebidas": [
+	    "nombre": "bebidas",
+            "contenido": [
                 {
                     "id": 7,
                     "nombre": "Champurrado",
@@ -83,7 +85,8 @@
         },
         {
 	    "id": 3,
-            "tamales": [
+	    "nombre": "tamales",
+            "contenido": [
 				{
                     "id": 11,
                     "nombre": "Verde",
