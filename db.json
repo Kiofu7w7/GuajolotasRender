@@ -123,7 +123,7 @@
 	"carts" : [
 		{
 			"id" : 1,
-			"id_products" : "12:1|7:2|3:1"
+			"id_products" : "12:1|7:2|3:1",
 			"total" : 63
 		}
 	]
