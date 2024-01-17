@@ -12,7 +12,7 @@
     ],
     "comidas": [
         {
-            "Guajolotas": [
+            "guajolotas": [
                 {
                     "id": 1,
                     "nombre": "Verde",
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "Bebidas": [
+            "bebidas": [
                 {
                     "id": 7,
                     "nombre": "Champurrado",
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "Tamales": [
+            "tamales": [
 				{
                     "id": 11,
                     "nombre": "Verde",
