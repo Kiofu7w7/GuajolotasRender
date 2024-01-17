@@ -1,0 +1,130 @@
+{
+    "usuarios": [
+        {
+			"id": 1,
+			"email" : "plaga500@hotmail.com",
+			"password" : "colegio1",
+			"cellphone" : "301234565",
+			"name" : "Santiago",
+			"last_name" : "Buitrago",
+			"id_carts" : 1
+		}
+    ],
+    "comidas": [
+        {
+            "Guajolotas": [
+                {
+                    "id": 1,
+                    "nombre": "Verde",
+                    "precio": 25,
+                    "stock": 20
+                },
+                {
+                    "id": 2,
+                    "nombre": "Mole",
+                    "precio": 25,
+                    "stock": 10
+                },
+                {
+                    "id": 3,
+                    "nombre": "Rajas",
+                    "precio": 25,
+                    "stock": 15
+                },
+                {
+                    "id": 4,
+                    "nombre": "Piña",
+                    "precio": 25,
+                    "stock": 19
+                },
+                {
+                    "id": 5,
+                    "nombre": "Pasas",
+                    "precio": 25,
+                    "stock": 30
+                },
+                {
+                    "id": 6,
+                    "nombre": "Guayaba",
+                    "precio": 25,
+                    "stock": 30
+                }
+            ]
+        },
+        {
+            "Bebidas": [
+                {
+                    "id": 7,
+                    "nombre": "Champurrado",
+                    "precio": 12,
+                    "stock": 30
+                },
+                {
+                    "id": 8,
+                    "nombre": "Atole de Arroz",
+                    "precio": 12,
+                    "stock": 25
+                },
+                {
+                    "id": 9,
+                    "nombre": "Chocolate caliente",
+                    "precio": 12,
+                    "stock": 40
+                },
+                {
+                    "id": 10,
+                    "nombre": "Café negro",
+                    "precio": 12,
+                    "stock": 23
+                }
+            ]
+        },
+        {
+            "Tamales": [
+				{
+                    "id": 11,
+                    "nombre": "Verde",
+                    "precio": 14,
+                    "stock": 20
+                },
+                {
+                    "id": 12,
+                    "nombre": "Mole",
+                    "precio": 14,
+                    "stock": 10
+                },
+                {
+                    "id": 13,
+                    "nombre": "Rajas",
+                    "precio": 14,
+                    "stock": 15
+                },
+                {
+                    "id": 14,
+                    "nombre": "Piña",
+                    "precio": 14,
+                    "stock": 19
+                },
+                {
+                    "id": 15,
+                    "nombre": "Pasas",
+                    "precio": 14,
+                    "stock": 30
+                },
+                {
+                    "id": 16,
+                    "nombre": "Guayaba",
+                    "precio": 14,
+                    "stock": 30
+                }
+            ]
+        }
+    ],
+	"carts" : [
+		{
+			"id" : 1,
+			"id_products" : "12:1|7:2|3:1"
+			"total" : 63
+		}
+	]
+}
