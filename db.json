@@ -122,7 +122,7 @@
                     "nombre": "Verde",
                     "precio": 14,
                     "stock": 20,
-		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/v1o92lb7op5jztoynvea.png",
+		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/b01a69dc2a2fdd13fe85ccae737b6fd4_n7ppuh.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/yfluifpo4riuojhiiekg.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/42ae0d237cff459b4dbef34a37cbd9e3_odnobf.png"
                 },
@@ -131,7 +131,7 @@
                     "nombre": "Mole",
                     "precio": 14,
                     "stock": 10,
-		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/bievjgunvulp16fx3qqh.png",
+		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789088/Guajolota/f21c97173efb267ab3146dd9b68f3b40_cxxaan.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/a2fbd1179b1e05364196353ed0409b52_qzih4c.png"
                 },
@@ -140,7 +140,7 @@
                     "nombre": "Rajas",
                     "precio": 14,
                     "stock": 15,
-		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/tmsedr6pciiu2cey44hw.png",
+		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/9a27aec91d66b0d09cb4dc6cc2b080e2_zhiewi.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/xbyohwjxmszhkvuxwqns.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789088/Guajolota/c3d06f5939459ab7aac043e0a1d2d5a7_xunhtp.png"
                 },
@@ -149,7 +149,7 @@
                     "nombre": "Piña",
                     "precio": 14,
                     "stock": 19,
-		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/cvgpxclq8ziufdpm1onj.png",
+		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/b17a16c23886be319986f9c61e9d38af_s5bthi.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/rsyk2ae7ruyraewza5ei.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/211493667026445f9adbd0c44cc565f4_wp1ki8.png"
                 },
@@ -158,7 +158,7 @@
                     "nombre": "Pasas",
                     "precio": 14,
                     "stock": 30,
-		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/cvymsulgjatkliutbdd4.png",
+		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/99e7b8df6669bb521a7c65cb98a7aa39_gw9hgr.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/sylvfzcpjwvjyve2fmys.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/6675c6afec92bd78d6f1dbf7c1be4144_wspzm0.png"
                 },
@@ -167,7 +167,7 @@
                     "nombre": "Guayaba",
                     "precio": 14,
                     "stock": 30,
-		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/tmsedr6pciiu2cey44hw.png",
+		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/9a27aec91d66b0d09cb4dc6cc2b080e2_zhiewi.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/20b4d249f0e723a205a9a375ae7e9cde_ypljnc.png"
                 }
