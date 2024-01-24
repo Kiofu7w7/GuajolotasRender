@@ -23,7 +23,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/v1o92lb7op5jztoynvea.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/yfluifpo4riuojhiiekg.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/42ae0d237cff459b4dbef34a37cbd9e3_odnobf.png",
-		    "nombre_completo" : "Guajalota de tamal verde"
+		    "nombre_completo" : "Guajalota de tamal verde",
+		    "categoria" : "guajalotas"
                 },
                 {
                     "id": 2,
@@ -33,7 +34,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/bievjgunvulp16fx3qqh.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/a2fbd1179b1e05364196353ed0409b52_qzih4c.png",
-		    "nombre_completo" : "Guajalota de tamal de mole"
+		    "nombre_completo" : "Guajalota de tamal de mole",
+		    "categoria" : "guajalotas"
                 },
                 {
                     "id": 3,
@@ -43,7 +45,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/tmsedr6pciiu2cey44hw.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/xbyohwjxmszhkvuxwqns.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789088/Guajolota/c3d06f5939459ab7aac043e0a1d2d5a7_xunhtp.png",
-		    "nombre_completo" : "Guajalota de tamal de rajas"
+		    "nombre_completo" : "Guajalota de tamal de rajas",
+		    "categoria" : "guajalotas"
                 },
                 {
                     "id": 4,
@@ -53,7 +56,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/cvgpxclq8ziufdpm1onj.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/rsyk2ae7ruyraewza5ei.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/211493667026445f9adbd0c44cc565f4_wp1ki8.png",
-		    "nombre_completo" : "Guajalota de tamal de piña"
+		    "nombre_completo" : "Guajalota de tamal de piña",
+		    "categoria" : "guajalotas"
                 },
                 {
                     "id": 5,
@@ -63,7 +67,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/cvymsulgjatkliutbdd4.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/sylvfzcpjwvjyve2fmys.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/6675c6afec92bd78d6f1dbf7c1be4144_wspzm0.png",
-		    "nombre_completo" : "Guajalota de tamal de pasas"
+		    "nombre_completo" : "Guajalota de tamal de pasas",
+		    "categoria" : "guajalotas"
                 },
                 {
                     "id": 6,
@@ -73,7 +78,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/tmsedr6pciiu2cey44hw.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/20b4d249f0e723a205a9a375ae7e9cde_ypljnc.png",
-		    "nombre_completo" : "Guajalota de tamal de guayabas"
+		    "nombre_completo" : "Guajalota de tamal de guayabas",
+		    "categoria" : "guajalotas"
                 }
             ]
         },
@@ -89,7 +95,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789167/Guajolota/bd461cd6f5e8f215f41006dd5987a424_btsx0n.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/yfluifpo4riuojhiiekg.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789454/Guajolota/b6838aed0c5956d82cc5d4d97c30429d_krqxxw.png",
-		    "nombre_completo" : "Champurrado"
+		    "nombre_completo" : "Champurrado",
+		    "categoria" : "bebidas"
                 },
                 {
                     "id": 8,
@@ -99,7 +106,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789167/Guajolota/aad994d5e614ac1f6b13e34e3817d5ed_u6pdos.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/rsyk2ae7ruyraewza5ei.png",
-		    "nombre_completo" : "Atole de Arroz con Leche"
+		    "nombre_completo" : "Atole de Arroz con Leche",
+		    "categoria" : "bebidas"
                 },
                 {
                     "id": 9,
@@ -109,7 +117,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789289/Guajolota/729e444cc86d52846b07a86d5342cb6b_o7ea6j.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/xbyohwjxmszhkvuxwqns.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789454/Guajolota/a58d97aadb28f3703d322f416f77e430_fcv5mu.png",
-		    "nombre_completo" : "Chocolate caliente"
+		    "nombre_completo" : "Chocolate caliente",
+		    "categoria" : "bebidas"
                 },
                 {
                     "id": 10,
@@ -119,7 +128,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789167/Guajolota/bd461cd6f5e8f215f41006dd5987a424_btsx0n.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/rsyk2ae7ruyraewza5ei.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789454/Guajolota/b26f851df89bc97213260fd737589309_ipr1jb.png",
-		    "nombre_completo" : "Café negro"
+		    "nombre_completo" : "Café negro",
+		    "categoria" : "bebidas"
                 }
             ]
         },
@@ -135,7 +145,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/b01a69dc2a2fdd13fe85ccae737b6fd4_n7ppuh.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/yfluifpo4riuojhiiekg.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/42ae0d237cff459b4dbef34a37cbd9e3_odnobf.png",
-		    "nombre_completo" : "Tamal verde"
+		    "nombre_completo" : "Tamal verde",
+		    "categoria" : "tamales"
                 },
                 {
                     "id": 12,
@@ -145,7 +156,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789088/Guajolota/f21c97173efb267ab3146dd9b68f3b40_cxxaan.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/a2fbd1179b1e05364196353ed0409b52_qzih4c.png",
-		    "nombre_completo" : "Tamal de mole"
+		    "nombre_completo" : "Tamal de mole",
+		    "categoria" : "tamales"
                 },
                 {
                     "id": 13,
@@ -155,7 +167,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/9a27aec91d66b0d09cb4dc6cc2b080e2_zhiewi.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533751/Guajolota/xbyohwjxmszhkvuxwqns.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789088/Guajolota/c3d06f5939459ab7aac043e0a1d2d5a7_xunhtp.png",
-		    "nombre_completo" : "Tamal de rajas"
+		    "nombre_completo" : "Tamal de rajas",
+		    "categoria" : "tamales"
                 },
                 {
                     "id": 14,
@@ -165,7 +178,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/b17a16c23886be319986f9c61e9d38af_s5bthi.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/rsyk2ae7ruyraewza5ei.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/211493667026445f9adbd0c44cc565f4_wp1ki8.png",
-		    "nombre_completo" : "Tamal de piña"
+		    "nombre_completo" : "Tamal de piña",
+		    "categoria" : "tamales"
                 },
                 {
                     "id": 15,
@@ -175,7 +189,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/99e7b8df6669bb521a7c65cb98a7aa39_gw9hgr.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/sylvfzcpjwvjyve2fmys.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789086/Guajolota/6675c6afec92bd78d6f1dbf7c1be4144_wspzm0.png",
-		    "nombre_completo" : "Tamal de pasas"
+		    "nombre_completo" : "Tamal de pasas",
+		    "categoria" : "tamales"
                 },
                 {
                     "id": 16,
@@ -185,7 +200,8 @@
 		    "imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/9a27aec91d66b0d09cb4dc6cc2b080e2_zhiewi.png",
 		    "plato" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705533750/Guajolota/gavlrjiqxdowlhwoofp5.png",
 		    "sabor_imagen" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1705789085/Guajolota/20b4d249f0e723a205a9a375ae7e9cde_ypljnc.png",
-		    "nombre_completo" : "Tamal de guayaba"
+		    "nombre_completo" : "Tamal de guayaba",
+		    "categoria" : "tamales"
                 }
             ]
         }
